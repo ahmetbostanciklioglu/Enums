@@ -13,7 +13,6 @@ case case2
 let enumConstant = exampleEnum.case1
 ```
 <br />
-<br />
 
 ```
 enum EnumAssociated {
